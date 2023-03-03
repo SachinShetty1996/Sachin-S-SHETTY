@@ -1,4 +1,4 @@
-### Hi there 👋,This is **Sachin S Shetty**
+### Hi there 👋, This is **Sachin S Shetty**
 **Mechanical Engineer with expertise in Numerical Modelling,Simulation, and Machine Learning**
 
 # **About**
