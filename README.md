@@ -2,7 +2,7 @@
 **Mechanical Engineer with expertise in Numerical Modelling,Simulation, and Machine Learning**
 
 # **About**
-As a highly motivated and dedicated engineer with expertise in Mechanics, Numerical Modeling, and Simulation, I am currently seeking a challenging Job/doctoral position in these fields. With a strong academic background and practical experience in developing and analyzing complex models using various tools such as MATLAB, Python, and Fortran, I have a proven track record of success in academic projects during my masters and certifications related to machine learning. With a passion for solving complex problems and a commitment to excellence, I am confident that I can make a valuable contribution to any team or organization.
+As a highly motivated and dedicated engineer with expertise in Mechanics, Numerical Modeling, Simulation and Machine Learning, I am currently seeking a challenging Job/doctoral position in these fields. With a strong academic background and practical experience in developing and analyzing complex models using various tools such as MATLAB, Python, and Fortran, I have a proven track record of success in academic projects during my masters and certifications related to machine learning. With a passion for solving complex problems and a commitment to excellence, I am confident that I can make a valuable contribution to any team or organization.
 
 # **Education**
 ## 1. Master's in **Computational Mechanics**
