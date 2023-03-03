@@ -66,6 +66,8 @@
 ### 6. Numerical Methods for Simulation of Coupled Problems |FINE Marine,Python
 - Fluid Surface Interaction
 [Report](https://github.com/SachinShetty1996/SachinShetty1996/blob/main/CPLED_Sachin_Srinivasa_Shetty.pdf)
+- Coupled 1D Linearised Thermo-Elastic Problem
+[Report](https://github.com/SachinShetty1996/SachinShetty1996/blob/main/CPLED_Project_Report_1F.pdf)
 
 ### 7.Algorithmics for Engineering Modelling | MATLAB
 - Solver for Komarova's Model
