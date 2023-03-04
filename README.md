@@ -1,6 +1,6 @@
 ### Hi there👋, This is **Sachin Srinivasa SHETTY**
 
-![alt text](https://github.com/SachinShetty1996/Sachin-S-SHETTY/blob/main/IMG-1650-modified-1.png)
+![alt text](https://github.com/SachinShetty1996/Sachin-S-SHETTY/blob/main/IMG-1650-modified-1.jpeg)
 
 **Mechanical Engineer with expertise in Numerical Modelling,Simulation, and Machine Learning**
 
