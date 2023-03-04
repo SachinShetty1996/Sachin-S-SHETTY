@@ -1,4 +1,4 @@
-### Hi there👋, This is **Sachin Srinivasa SHETTY**
+### Hi there👋, This is **Sachin**
 
 **Mechanical Engineer with expertise in Numerical Modelling,Simulation, and Machine Learning**
 
