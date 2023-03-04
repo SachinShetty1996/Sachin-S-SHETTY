@@ -1,4 +1,4 @@
-### Hi there 👋, This is **Sachin Srinivasa SHETTY**
+### Hi there👋, This is **Sachin Srinivasa SHETTY**
 
 ![image](https://github.com/SachinShetty1996/Sachin-S-SHETTY/blob/main/IMG-1650-modified-1.png)
 
